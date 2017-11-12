@@ -1,0 +1,23 @@
+{
+  "name": "sandbox-hexo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hexo": "hexo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szk213/sandbox-hexo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szk213/sandbox-hexo/issues"
+  },
+  "homepage": "https://github.com/szk213/sandbox-hexo#readme",
+  "devDependencies": {
+    "hexo-cli": "^1.0.4"
+  }
+}
